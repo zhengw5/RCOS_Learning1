@@ -1,0 +1,10 @@
+- Label which classes are communication intensive, maybe highlight these classes
+
+- I think it would be nice for the user if they could see if the class is a prerequsite for any class or if the class requires a class before.
+
+- I think that the website should implement a "recommended class" property based on the normal program for your major. I was thinking that if we make the user input
+their graduation date, we could recommend what classes they should take for that semester. Or if a student selects a course, and this course is usually paired with 
+another major specific class, the website would put that class on top of the list and say recommended. For instance, if a students selects Fundamentals of Computer
+Science, then Computer Organization will pop up on top of the list. Or if a student selects Intro to Algorithms, programming software will pop up on top. 
+
+- Lastly I believe that the times on the side of the schedule should be made a little bigger, because it is almost unreadable. 
